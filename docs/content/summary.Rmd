@@ -1,4 +1,4 @@
-```{block type="col-6 grid-item", echo=TRUE}
+```{block type="col-6 grid-item", echo=FALSE}
 ## Personal summary {.summary}
 I am a computer scientist, cognitive psychologist, and musician, working on design strategies for supporting self-control over digital device use.
 I am passionate about open science and teach workshops on reproducible research with R and R Markdown.

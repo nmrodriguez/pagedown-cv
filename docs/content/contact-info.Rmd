@@ -4,11 +4,10 @@
 
 | Center | Left |
 |:------:|:-----|
-| <i class="fas fa-map-marker-alt"></i>|Department of Computer Science,\
-University of Oxford, Oxford, UK|
-| <i class="fas fa-envelope"></i> | ulrik.lyngs\@cs.ox.ac.uk |
-| <i class="fas fa-globe"></i> | [ulriklyngs.com](https://ulriklyngs.com) |
-| <i class="fab fa-github"></i> | [ulyngs](https://github.com/ulyngs/) |
+| <i class="fas fa-map-marker-alt"></i>| Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ |
+| <i class="fas fa-envelope"></i> | nicole.rodriguez@rutgers.edu |
+| <i class="fas fa-globe"></i> | [ulriklyngs.com](https://nmrodriguez.github.io) |
+| <i class="fab fa-github"></i> | [nmrodriguez](https://github.com/nmrodriguez/) |
 
 </div>
 ```
